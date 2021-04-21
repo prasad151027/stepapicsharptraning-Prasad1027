@@ -1,7 +1,0 @@
-C:\Users\PRASAD\source\repos\ArrayMinumumNumber\ArrayMinumumNumber\obj\Debug\ArrayMinumumNumber.csprojAssemblyReference.cache
-C:\Users\PRASAD\source\repos\ArrayMinumumNumber\ArrayMinumumNumber\obj\Debug\ArrayMinumumNumber.csproj.CoreCompileInputs.cache
-C:\Users\PRASAD\source\repos\ArrayMinumumNumber\ArrayMinumumNumber\bin\Debug\ArrayMinumumNumber.exe.config
-C:\Users\PRASAD\source\repos\ArrayMinumumNumber\ArrayMinumumNumber\bin\Debug\ArrayMinumumNumber.exe
-C:\Users\PRASAD\source\repos\ArrayMinumumNumber\ArrayMinumumNumber\bin\Debug\ArrayMinumumNumber.pdb
-C:\Users\PRASAD\source\repos\ArrayMinumumNumber\ArrayMinumumNumber\obj\Debug\ArrayMinumumNumber.exe
-C:\Users\PRASAD\source\repos\ArrayMinumumNumber\ArrayMinumumNumber\obj\Debug\ArrayMinumumNumber.pdb

@@ -1,7 +1,0 @@
-C:\Users\PRASAD\Desktop\C_Sharp\properties_2\properties_2\bin\Debug\properties_2.exe.config
-C:\Users\PRASAD\Desktop\C_Sharp\properties_2\properties_2\bin\Debug\properties_2.exe
-C:\Users\PRASAD\Desktop\C_Sharp\properties_2\properties_2\bin\Debug\properties_2.pdb
-C:\Users\PRASAD\Desktop\C_Sharp\properties_2\properties_2\obj\Debug\properties_2.csprojAssemblyReference.cache
-C:\Users\PRASAD\Desktop\C_Sharp\properties_2\properties_2\obj\Debug\properties_2.csproj.CoreCompileInputs.cache
-C:\Users\PRASAD\Desktop\C_Sharp\properties_2\properties_2\obj\Debug\properties_2.exe
-C:\Users\PRASAD\Desktop\C_Sharp\properties_2\properties_2\obj\Debug\properties_2.pdb
