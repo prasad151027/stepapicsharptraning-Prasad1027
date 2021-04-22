@@ -1,0 +1,6 @@
+C:\Users\PRASAD\Desktop\C_Sharp\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\PRASAD\Desktop\C_Sharp\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\PRASAD\Desktop\C_Sharp\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\PRASAD\Desktop\C_Sharp\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\PRASAD\Desktop\C_Sharp\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\PRASAD\Desktop\C_Sharp\Interface\Interface\obj\Debug\Interface.pdb
