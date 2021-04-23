@@ -1,0 +1,7 @@
+C:\Users\PRASAD\Desktop\C_Sharp\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\PRASAD\Desktop\C_Sharp\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\PRASAD\Desktop\C_Sharp\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\PRASAD\Desktop\C_Sharp\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\PRASAD\Desktop\C_Sharp\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\PRASAD\Desktop\C_Sharp\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\PRASAD\Desktop\C_Sharp\Delegates\Delegates\obj\Debug\Delegates.pdb

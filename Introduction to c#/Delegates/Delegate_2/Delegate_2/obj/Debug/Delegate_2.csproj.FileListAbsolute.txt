@@ -1,0 +1,7 @@
+C:\Users\PRASAD\Desktop\C_Sharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.csprojAssemblyReference.cache
+C:\Users\PRASAD\Desktop\C_Sharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.csproj.CoreCompileInputs.cache
+C:\Users\PRASAD\Desktop\C_Sharp\Delegate_2\Delegate_2\bin\Debug\Delegate_2.exe.config
+C:\Users\PRASAD\Desktop\C_Sharp\Delegate_2\Delegate_2\bin\Debug\Delegate_2.exe
+C:\Users\PRASAD\Desktop\C_Sharp\Delegate_2\Delegate_2\bin\Debug\Delegate_2.pdb
+C:\Users\PRASAD\Desktop\C_Sharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.exe
+C:\Users\PRASAD\Desktop\C_Sharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.pdb
