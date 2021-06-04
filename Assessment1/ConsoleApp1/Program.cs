@@ -16,6 +16,7 @@ namespace ConsoleApp1
             again1:
             try
             {
+
                 for (int i = 0; i < len; i++)
                 {
                     Console.Write("Enter the elements of List{0}:", listNum);
